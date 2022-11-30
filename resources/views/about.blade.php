@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-    <title>About - Kelly Bootstrap Template</title>
+    <title>Vinz-Developer</title>
     <meta content="" name="description">
     <meta content="" name="keywords">
 
@@ -101,7 +101,8 @@
                                     <li><i class="bi bi-rounded-right"></i> <strong>Website:</strong> www.example.com
                                     </li>
                                     <li><i class="bi bi-rounded-right"></i> <strong>Phone:</strong> 085930200993</li>
-                                    <li><i class="bi bi-rounded-right"></i> <strong>City:</strong> kesugihan, cilacap, jawa tengah
+                                    <li><i class="bi bi-rounded-right"></i> <strong>City:</strong> kesugihan, cilacap,
+                                        jawa tengah
                                     </li>
                                 </ul>
                             </div>

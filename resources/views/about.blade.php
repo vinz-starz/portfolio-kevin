@@ -97,20 +97,20 @@
                         <div class="row">
                             <div class="col-lg-6">
                                 <ul>
-                                    <li><i class="bi bi-rounded-right"></i> <strong>Birthday:</strong> 1 May 1995</li>
+                                    <li><i class="bi bi-rounded-right"></i> <strong>Birthday:</strong> 8 juni 2000</li>
                                     <li><i class="bi bi-rounded-right"></i> <strong>Website:</strong> www.example.com
                                     </li>
-                                    <li><i class="bi bi-rounded-right"></i> <strong>Phone:</strong> +123 456 7890</li>
-                                    <li><i class="bi bi-rounded-right"></i> <strong>City:</strong> City : New York, USA
+                                    <li><i class="bi bi-rounded-right"></i> <strong>Phone:</strong> 085930200993</li>
+                                    <li><i class="bi bi-rounded-right"></i> <strong>City:</strong> kesugihan, cilacap, jawa tengah
                                     </li>
                                 </ul>
                             </div>
                             <div class="col-lg-6">
                                 <ul>
-                                    <li><i class="bi bi-rounded-right"></i> <strong>Age:</strong> 30</li>
+                                    <li><i class="bi bi-rounded-right"></i> <strong>Age:</strong> 22</li>
                                     <li><i class="bi bi-rounded-right"></i> <strong>Degree:</strong> Master</li>
                                     <li><i class="bi bi-rounded-right"></i> <strong>PhEmailone:</strong>
-                                        email@example.com</li>
+                                        setiawank841@gmail.com</li>
                                     <li><i class="bi bi-rounded-right"></i> <strong>Freelance:</strong> Available</li>
                                 </ul>
                             </div>
@@ -160,9 +160,9 @@
                         </div>
 
                         <div class="progress">
-                            <span class="skill">JavaScript <i class="val">75%</i></span>
+                            <span class="skill">JavaScript <i class="val">50%</i></span>
                             <div class="progress-bar-wrap">
-                                <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0"
+                                <div class="progress-bar" role="progressbar" aria-valuenow="50" aria-valuemin="0"
                                     aria-valuemax="100"></div>
                             </div>
                         </div>
@@ -172,9 +172,9 @@
                     <div class="col-lg-6">
 
                         <div class="progress">
-                            <span class="skill">PHP <i class="val">50%</i></span>
+                            <span class="skill">PHP/LARAVEL <i class="val">70%</i></span>
                             <div class="progress-bar-wrap">
-                                <div class="progress-bar" role="progressbar" aria-valuenow="50" aria-valuemin="0"
+                                <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0"
                                     aria-valuemax="100"></div>
                             </div>
                         </div>
@@ -188,7 +188,7 @@
                         </div>
 
                         <div class="progress">
-                            <span class="skill">Photoshop <i class="val">55%</i></span>
+                            <span class="skill">Photoshop/Coreldraw <i class="val">55%</i></span>
                             <div class="progress-bar-wrap">
                                 <div class="progress-bar" role="progressbar" aria-valuenow="55" aria-valuemin="0"
                                     aria-valuemax="100"></div>
